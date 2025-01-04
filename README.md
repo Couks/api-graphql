@@ -29,5 +29,3 @@ API GraphQL desenvolvida em TypeScript para gerenciamento de agendamentos e clie
 - Listar todos os agendamentos
 - Buscar agendamento por ID
 - Deletar agendamento
-
-## 🛠️ Estrutura do Projeto
