@@ -1,0 +1,16 @@
+# Ignorar diretórios de build ou dependências
+node_modules/
+dist/
+build/
+
+# Ignorar arquivos de configuração local
+.env
+*.log
+
+# Ignorar sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos temporários de IDEs
+.vscode/
+.idea/
